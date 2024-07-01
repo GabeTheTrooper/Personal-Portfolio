@@ -1,4 +1,4 @@
-● Developed a path tracing render engine as part of a group project, which was later used in a Computer Vision course, receiving high praise from the professor and course TA.
+● Developed a path tracing render engine as part of a passion project.
 
 
 ● Implemented the mainframe of the render engine in Python, using NumPy for mathematical operations necessary for reflection calculations.
